@@ -13,7 +13,7 @@ Ele é baseado na ideia de dividir o vetor em pequenos grupos (5 elementos), cal
 Nossa ideia é o desenvolvimento de uma estratégia paralelizada em **CUDA**, permitindo que várias medianas de grupos sejam calculadas simultaneamente por diferentes *threads* da GPU.
 
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [**CUDA**](https://developer.nvidia.com/cuda-toolkit) — para execução paralela em GPU
 - [**C++**](https://isocpp.org/) — para execução sequencial
