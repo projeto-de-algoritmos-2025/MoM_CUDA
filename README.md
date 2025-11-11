@@ -66,4 +66,4 @@ Dupla responsável: **21**
 
 ## Vídeo de Apresentação
 
-- [Vídeo de apresentação]()
+- [Vídeo de apresentação](https://youtu.be/8ifnQItyySs)
